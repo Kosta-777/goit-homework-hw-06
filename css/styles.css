@@ -822,6 +822,8 @@ body {
 @media screen and (min-width: 1158px) {
   .footer-container {
     padding: 0 15px;
+    justify-content: center;
+    align-items: flex-start;
   }
 }
 .footer-logo-text {
